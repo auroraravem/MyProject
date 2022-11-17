@@ -2,6 +2,8 @@
 ## Overskrift2
 ### Overskrift3
 
+PS: Les om Markdown!
+
 - item1
 - item2 
 ---
